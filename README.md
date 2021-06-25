@@ -1,2 +1,2 @@
 # Autoplay-Slot-Machine-Game
-using with C language
+using with C language.
